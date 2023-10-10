@@ -1,0 +1,424 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  width: 1440px;
+  height: 1757px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation-header {
+  background: var(--white, #ffffff);
+  padding: 24px 160px 24px 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.logo {
+  flex-shrink: 0;
+  width: 90px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+}
+.wade {
+  color: #000000;
+  text-align: left;
+  font: var(--title-heading-4, 700 24px "Work Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.menu-links {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  flex-shrink: 0;
+  width: 52px;
+  height: 30px;
+  position: relative;
+}
+.home2 {
+  color: var(--true-gray-700, #404040);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.work {
+  flex-shrink: 0;
+  width: 46px;
+  height: 30px;
+  position: relative;
+}
+.work2 {
+  color: var(--true-gray-700, #404040);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.blog {
+  flex-shrink: 0;
+  width: 39px;
+  height: 30px;
+  position: relative;
+}
+.blog2 {
+  color: var(--true-gray-700, #404040);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about2 {
+  flex-shrink: 0;
+  width: 53px;
+  height: 30px;
+  position: relative;
+}
+.selected {
+  background: var(--true-gray-900, #0c0b0b);
+  width: 53px;
+  height: 4px;
+  position: absolute;
+  left: 0px;
+  top: 26px;
+}
+.about3 {
+  color: var(--true-gray-900, #0c0b0b);
+  text-align: left;
+  font: var(--body-semibold, 600 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-mail {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.hero {
+  background: #fed02b;
+  width: 1440px;
+  height: 327px;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+  overflow: hidden;
+}
+.hola {
+  color: var(--true-gray-900, #0c0b0b);
+  text-align: left;
+  font: var(--title-heading-1, 700 64px "Work Sans", sans-serif);
+  position: absolute;
+  left: 346px;
+  top: 80px;
+}
+.pariatur-quas-consequatur-aut-dolorum-est-quis-eum-placeat-dolorem-provident-animi-aliquam-molestias-sunt-asp {
+  color: var(--true-gray-700, #404040);
+  text-align: left;
+  font: var(--title-subtitle, 500 20px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 346px;
+  top: 163px;
+  width: 461px;
+}
+.rectangle-4 {
+  border-style: solid;
+  border-color: var(--true-gray-900, #0c0b0b);
+  border-width: 4px;
+  width: 225px;
+  height: 225px;
+  position: absolute;
+  left: 921px;
+  top: 51px;
+}
+.ipsam-molestiae-vitae-autem-laudantium-consequuntur-accusamus-dicta-nisi-magni-et-consequatur-doloribus-neque-et-autem-omnis-ut-consequatur-dignissimos-autem-earum-dignissimos-at-omnis-nihil-non-velit-sit-exercitationem-delectus-dolores-voluptatem-dolor-ea-aut-perspiciatis {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 350px;
+  top: 439px;
+  width: 740px;
+}
+.distinctio-numquam-sit-modi-nisi-laboriosam-quasi-sed-non-consequatur-totam-quis-voluptatem-est-possimus-reprehenderit-voluptas-temporibus-ea-sed-illum-consectetur-laboriosam-exercitationem-deserunt-cumque-consequatur {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 350px;
+  top: 1339px;
+  width: 740px;
+}
+.voluptas-placeat-voluptas-quaerat-sint-qui-sunt-nihil-quia-non-aperiam-numquam-esse-doloremque-ab-iure-incidunt-iste-quaerat-laudantium-temporibus-placeat-quis-animi-earum-assumenda-voluptatem-alias-cupiditate-accusamus {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: absolute;
+  left: 350px;
+  top: 1455px;
+  width: 740px;
+}
+.a-little-bit-about-me {
+  margin-bottom: 100px;
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--title-heading-3, 700 32px "Work Sans", sans-serif);
+  position: absolute;
+  left: 350px;
+  top: 591px;
+}
+.my-current-responsibilities {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--title-heading-3, 700 32px "Work Sans", sans-serif);
+  position: absolute;
+  left: 350px;
+  top: 1269px;
+}
+.item-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 446px;
+  top: 661px;
+}
+.smtp-granite-kids {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-bold, 700 18px/28px "Work Sans", sans-serif);
+  position: relative;
+}
+._2018-present {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+.itaque-officia-voluptates-soluta-quam-voluptates-omnis-aut-fuga-et-et-explicabo-libero-tempore-minima-id-est-tenetur-voluptate {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: relative;
+  width: 644px;
+}
+.item-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 446px;
+  top: 809px;
+}
+.smtp-idaho {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-bold, 700 18px/28px "Work Sans", sans-serif);
+  position: relative;
+}
+._2016-2018 {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+.illo-provident-quo-est-animi-accusamus-maiores-eius-similique-vel-commodi-ea-molestiae-autem-ipsum-et-reprehenderit {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: relative;
+  width: 644px;
+}
+.item-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 446px;
+  top: 957px;
+}
+.chips-engineer-hat {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-bold, 700 18px/28px "Work Sans", sans-serif);
+  position: relative;
+}
+._2014-2016 {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+.quia-sint-odit-quibusdam-unde-natus-molestias-nobis-soluta-voluptas-ab-eum-aperiam-omnis-libero-error-aperiam-harum-est-et {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-regular, 500 18px/28px "Work Sans", sans-serif);
+  position: relative;
+  width: 644px;
+}
+.item-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 446px;
+  top: 1105px;
+}
+.managed-chicken {
+  color: var(--true-gray-800, #282828);
+  text-align: left;
+  font: var(--body-bold, 700 18px/28px "Work Sans", sans-serif);
+  position: relative;
+}
+._2011-2014 {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+.bullet {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 350px;
+  top: 669px;
+  overflow: visible;
+}
+.bullet2 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 350px;
+  top: 819px;
+  overflow: visible;
+}
+.bullet3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 350px;
+  top: 969px;
+  overflow: visible;
+}
+.bullet4 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 350px;
+  top: 1119px;
+}
+.navigation-footer {
+  background: var(--white, #ffffff);
+  padding: 24px 160px 24px 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 1677px;
+  box-shadow: inset 0px 1px 0px 0px rgba(229, 229, 229, 1);
+  overflow: hidden;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.wade-wilson {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+. {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+.feel-free-to-drop-a-hello-wade-example-com {
+  color: var(--true-gray-500, #737373);
+  text-align: left;
+  font: var(--secondary-regular, 500 14px/24px "Work Sans", sans-serif);
+  position: relative;
+}
+.icon-mail2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.icon4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
